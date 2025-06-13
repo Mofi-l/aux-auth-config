@@ -1,4 +1,4 @@
 // auth-config.js
 window.AUTH_CONFIG = {
-    authorizedUsers: ["mofila", "user2", "user3"]
+    authorizedUsers: ["user1", "user2", "user3"]
 };
