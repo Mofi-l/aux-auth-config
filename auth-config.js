@@ -1,2 +1,4 @@
 // auth-config.js
-const authorizedUsers = ['mofila'];
+window.AUTH_CONFIG = {
+    authorizedUsers: ["mofila", "user2", "user3"]
+};
